@@ -10,9 +10,7 @@ Implement a function with the following interface:
 merge(collection_1: number[], collection_2: number[], collection_3: number[]): number[]
 P.S. The task is "merge (int[] collection_1, int[] collection_2, int[] collection_3) : int []"
 ```
-given
-collection_1, collection_2 already sorted from min(0) to max
-collection_3  already sorted from max to min(0)
+given collection_1, collection_2 already sorted from min(0) to max and collection_3  already sorted from max to min(0)
 
 ## Project Structure
 
