@@ -44,6 +44,3 @@ The output will be printed to the console from `src/main.ts`
 npm test
 ```
 Tests are located in `test/merge.test.ts`
-
-## Notes
-- Time complexity: O(n)
